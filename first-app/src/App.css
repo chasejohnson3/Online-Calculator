@@ -1,0 +1,36 @@
+.App{
+  width: 400px;
+  height: 600px;
+}
+
+.Display{
+  width: 390px;
+  height: 100px;
+  border: 2px solid red;
+  text-align: right;
+  font-size: 75px;
+  line-height: 100px;
+  padding-right: 10px;
+}
+
+.Keyboard{
+  width: 400px;
+  height: 500px;
+  border: 2px solid green;
+}
+
+button{
+  width: 90px;
+  height: 90px;
+  border-radius:50px;
+  border: 1px solid black;
+}
+
+/* button:focus{
+  outline:0;
+  background-color: darkgray;
+} */
+
+button:hover{
+  background-color: lightgray;
+}
