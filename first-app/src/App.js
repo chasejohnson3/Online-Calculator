@@ -19,18 +19,18 @@ render(){
 
       {/* <button>7</button> */}
       <NumberButton number={7}/>
-      <button>8</button>
-      <button>9</button>
+      <NumberButton number={8}/>
+      <NumberButton number={9}/>
       <button class="button button_orange">X</button>
 
-      <button>4</button>
-      <button>5</button>
-      <button>6</button>
+      <NumberButton number={4}/>
+      <NumberButton number={5}/>
+      <NumberButton number={6}/>
       <button class="button button_orange">-</button>
 
-      <button>1</button>
-      <button>2</button>
-      <button>3</button>
+      <NumberButton number={1}/>
+      <NumberButton number={2}/>
+      <NumberButton number={3}/>
       <button class="button button_orange">+</button>             
 
       <button class="button button_zero">0</button>
